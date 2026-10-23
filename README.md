@@ -2,6 +2,9 @@
 
 *"In his house at R'lyeh, dead Cthulhu waits dreaming."*
 
+<img src="/images/cthulu_badge_leds_multi_1.png" width="500" />
+
+
 ## Assembly Instructions
 
 You should have the following items:
